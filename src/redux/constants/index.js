@@ -1,0 +1,8 @@
+export const INIT_CITY = 'INIT_CITY'
+export const CHANGE_CITY = 'CHANGE_CITY'
+export const UPDATE_SEARCH = 'UPDATE_SEARCH'
+export const LOGIN = 'LOGIN'
+export const LOGOUT = 'LOGOUT'
+export const FAVORITE = 'FAVORITE'
+export const UNFAVORITE = 'UNFAVORITE'
+export const REGISTER = 'REGISTER'
