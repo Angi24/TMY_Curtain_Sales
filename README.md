@@ -2,15 +2,15 @@
 
 ## Technology Stack
 
-Frontend: React + ReactHook + ReactRouter + Redux + Axios + Less + Bootstrap + JWT (JSON Web Tokens) + ...
-Backend: Node.js (express) + Promise + cors + ...
-Database: MySQL
+- Frontend: React + ReactHook + ReactRouter + Redux + Axios + Less + Bootstrap + JWT (JSON Web Tokens) + ...
+- Backend: Node.js (express) + Promise + cors + ...
+- Database: MySQL
 
 ## Project start
 
-Server: /capstoneproject_yiyang_1995452/server: node index.js
-Project: /capstoneproject_yiyang_1995452: yarn start
-Database: net start mysql (Configuration: server/database/index.js)
+- Server: /capstoneproject_yiyang_1995452/server: node index.js
+- Project: /capstoneproject_yiyang_1995452: yarn start
+- Database: net start mysql (Configuration: server/database/index.js)
 
 ## Plan completion function
 
